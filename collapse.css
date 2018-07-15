@@ -1,0 +1,20 @@
+.styleCss
+{
+	border-style: solid;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #ACE78F;
+}
+
+.styleCss:hover
+{
+	cursor: pointer;
+}
+
+.panelCss
+{
+	border-style: solid;
+	padding: 10px;
+	border-radius: 10px;
+	background-color: #E2F7D9;	
+}

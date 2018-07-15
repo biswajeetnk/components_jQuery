@@ -1,0 +1,28 @@
+.navbar
+{
+  overflow: hidden;
+  background-color: #98D5F5;
+  padding: 2%;
+  display: flex;
+}
+
+.navbar1
+{
+	text-align: center;
+	width: 490px;
+	text-decoration: none;
+	border-right: 2px solid black;
+}
+
+.navbar1:hover
+{
+  background-color: #6C7E88;
+  color: white;
+  cursor: pointer;
+}
+
+.menu1_content, .menu2_content, .menu3_content
+{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+}
